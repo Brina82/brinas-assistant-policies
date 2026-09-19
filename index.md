@@ -1,6 +1,10 @@
-# Brina’s assistant
+Brina’s assistant
 
-Official policies and information for Brina’s assistant.
+Official policies for Brina’s assistant, a custom Discord bot operated by Brina82.
 
-- [Privacy Policy](privacy)
-- [Terms of Service](terms)
+Policies
+
+* Privacy Policy
+* Terms of Service
+
+Effective date: September 20, 2026
