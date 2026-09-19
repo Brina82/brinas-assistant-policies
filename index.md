@@ -4,7 +4,7 @@ Official policies for Brina’s assistant, a custom Discord bot operated by Brin
 
 Policies
 
-* [Privacy Policy](policy)
+* [Privacy Policy](privacy)
 * [Terms of Service](terms)
 
 Effective date: September 20, 2026
